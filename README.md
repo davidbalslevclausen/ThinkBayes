@@ -6,6 +6,8 @@ then navigate to the \notebooks directory and open the
 notebook corresponding to the chapter you want to read: 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/rlabbe/ThinkBayes)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidbalslevclausen/ThinkBayes/binder-env-file)
+
 
 This material was adapted from Allen Downey's Think Bayes 
 Github repository by Roger Labbe. 
